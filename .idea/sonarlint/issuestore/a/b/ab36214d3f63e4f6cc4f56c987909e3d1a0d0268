@@ -1,0 +1,39 @@
+
+X
+java:S2184¨"ACast one of the operands of this addition operation to a "float".(÷ÖµÇ
+X
+java:S2184¨"ACast one of the operands of this addition operation to a "float".(÷ÖµÇ
+[
+java:S2184¨"DCast one of the operands of this subtraction operation to a "float".(÷ÖµÇ
+[
+java:S2184¨"DCast one of the operands of this subtraction operation to a "float".(÷ÖµÇ
+X
+java:S2184¼"ACast one of the operands of this addition operation to a "float".(÷ÖµÇ
+X
+java:S2184¼"ACast one of the operands of this addition operation to a "float".(÷ÖµÇ
+[
+java:S2184¼"DCast one of the operands of this subtraction operation to a "float".(÷ÖµÇ
+[
+java:S2184¼"DCast one of the operands of this subtraction operation to a "float".(÷ÖµÇ
+
+java:S1186Ï"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çœí„ùÿÿÿÿ
+˜
+java:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²“ãÑ
+
+java:S1186Ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡àÌùÿÿÿÿ
+
+java:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(à€Ûşøÿÿÿÿ
+H
+java:S1948"-Make "gameManager" transient or serializable.(Áà¼‘üÿÿÿÿ
+J
+java:S1948"/Make "clickListener" transient or serializable.(ø…¢òüÿÿÿÿ
+H
+java:S1948"2Make "selectedPosition" transient or serializable.(çÆè
+M
+java:S1948"2Make "highlightedMoves" transient or serializable.(‰ìŒšıÿÿÿÿ
+h
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ÈÊ“À
+P
+java:S1128	";Remove this unused import 'java.awt.geom.RoundRectangle2D'.(ùÇö'
+İ
+java:S6541@"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 103 to 64, Complexity from 27 to 14, Nesting Level from 4 to 2, Number of Variables from 42 to 6.(ÈÊ“À
